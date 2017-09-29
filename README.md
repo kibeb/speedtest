@@ -2,6 +2,8 @@
 
 No Flash, No Java, No Websocket, No Bullshit.
 
+... And No PHP, but ASP.NET (by github.com/kibeb).
+
 This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers.
 
 ## Try it
